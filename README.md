@@ -1,8 +1,11 @@
 The given code will perform a number of operations for "Assignment 2", including:
 -------
 Neville's Method
+
 Newton's Forward Method
-Divided Difference Method for Hermite Polynomialks
+
+Divided Difference Method for Hermite Polynomials
+
 Cubic Spline Iterpolation and Matrix Algebra
 -------
 
