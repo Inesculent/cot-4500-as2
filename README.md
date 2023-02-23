@@ -7,6 +7,7 @@ Newton's Forward Method
 Divided Difference Method for Hermite Polynomials
 
 Cubic Spline Iterpolation and Matrix Algebra
+
 -------
 
 
